@@ -23,7 +23,7 @@ const me = {
 * *Can* be undefined, but this is not typically done (as explained more below)
 
 ### Accessing Object Values
-* Use square bracket notation
+* Use square bracket notation when value is dynamic
 
 ```javascript
 const myFirstName = me["firstName"]
