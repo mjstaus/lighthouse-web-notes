@@ -5,8 +5,11 @@ This repository contains all of the notes taken by [Martha](https://github.com/m
 
 ## Table of Contents
 
-* [Week 1](/Week_1)
-  * [Day 2](/Day_2) - October 20
-  * [Day 3](/Day_3) - October 21
-  * [Day 5](/Day_5) - October 23
+- [Week 1](/Week_1)
+  - [Day 2](/Day_2) - October 20
+  - [Day 3](/Day_3) - October 21
+  - [Day 5](/Day_5) - October 23
+
+- [Week 2](/Week_2)
+  - [Day 1](Day_1) - October 26
 
