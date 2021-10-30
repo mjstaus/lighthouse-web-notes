@@ -47,3 +47,10 @@ Output = Will count to ~17000, then crash with message ```RangeError: Maximum ca
 **Base Case** = function will not call itself if true (eg. number >12)
 
 > In a properly designed recursive function, the input gets closer and closer to the **base case** with each recursive call. 
+
+A function must have at least one recursive case and at least one base case in order to be recursive!
+
+### When to Choose Recursion Over Iteration
+If the problem you're trying to solve is a *smaller version* of the larger problem you've already solved, then recusion is likely a better choice!
+
+>Note: Recursion often comes up in tech interviews!!
