@@ -28,3 +28,21 @@
 
 
 >Notes from https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/
+
+---
+### Happy Path Testing
+---
+
+Goal of testing is to find as many bugs as possible before sending code into production
+
+But how do we know what and how much to test?
+
+"Happy path" is the path through a system where everything works. 
+
+We test "happy path" first because we understand how the system *should* work, and want to make sure the basic features work properly. 
+
+Once that's done, we need to wander into the weed with testing. Spend 20% of your testing time on the happy path, and 80% of your time in the weeds. 
+
+**"Better we break them instead of the user"**
+
+>Notes from https://effectivecio.com/2009/11/02/the-happy-path/
