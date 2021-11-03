@@ -54,3 +54,11 @@ A function must have at least one recursive case and at least one base case in o
 If the problem you're trying to solve is a *smaller version* of the larger problem you've already solved, then recusion is likely a better choice!
 
 >Note: Recursion often comes up in tech interviews!!
+
+### Summary
+
+- Recursion is when a function calls itself until it doesn't
+- Any iteration problem can be solved by recursion (and vice versa)
+- Recursion is a type of *control flow*
+
+Don't worry that you're not comfortable yet! It'll come with practice 🤗🌱
