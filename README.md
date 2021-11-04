@@ -20,6 +20,7 @@ This repository contains all of the notes taken by [Martha](https://github.com/m
   - [Day 3](Day_3) - October 30
   - [Day 5](Day_5) - November 1
   - [Day 7](Day_7) - November 3
+  - [Day 8](Day_8) - November 4
 
   
   
