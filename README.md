@@ -22,6 +22,10 @@ This repository contains all of the notes taken by [Martha](https://github.com/m
   - [Day 7](Day_7) - November 3
   - [Day 8](Day_8) - November 4
 
+- [Week 4](/Week_4)
+  - [Day 1](Day_1) - November 4
+
+
   
   
 
