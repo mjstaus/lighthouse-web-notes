@@ -22,9 +22,6 @@ We need a testing framework! We'll be using:
 The following sections are notes from https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 
 ---
-
-
-
 #### Directory Structure
 ---
 
