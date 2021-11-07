@@ -24,6 +24,7 @@ This repository contains all of the notes taken by [Martha](https://github.com/m
 
 - [Week 4](/Week_4)
   - [Day 1](Day_1) - November 4
+  - [Day 2](Day_2) - November 7
 
 
   
