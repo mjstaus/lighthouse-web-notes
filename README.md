@@ -28,6 +28,7 @@ This repository contains all of the notes taken by [Martha](https://github.com/m
 
 - [Week 5](/Week_5)
   - [Day 1](Day_1) - November 13
+  - [Day 2](Day_2) - November 14
 
 
   
