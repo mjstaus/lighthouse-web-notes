@@ -36,6 +36,8 @@ This repository contains all of the notes taken by [Martha](https://github.com/m
 - [Week 8](/Week_8)
   - [Day 1](Day_1) - November 30
 
+- [Week 12](/Week_12)
+  - [Day 1](Day_1) - January 11
 
   
   
