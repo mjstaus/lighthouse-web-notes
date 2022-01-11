@@ -80,7 +80,7 @@ DROP TABLE users CASCADE;
 
 ** BEST PRACTICE ** to make sure table exists and avoid SQL errors :)
 ```SQL 
-DROP TABLE if exists users CASCADE
+DROP TABLE users if exists CASCADE
 ```
 ---
 ### Not Null
